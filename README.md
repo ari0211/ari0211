@@ -42,6 +42,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
+</div>
    Google cloud certificate:https://www.cloudskillsboost.google/public_profiles/4ed67420-af52-477f-920b-fb224046587f/badges/2591208?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
    <img src="https://cdn.qwiklabs.com/i88dJUJVWT%2Blo8GTDfEOqhJF9XXF2YvZOI1pY%2FbzSaY%3D" title="Certificate" **alt="Certificate" width="650" height="400"/>
 </div>
