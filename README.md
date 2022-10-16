@@ -46,8 +46,11 @@
    Google cloud certificate:https://www.cloudskillsboost.google/public_profiles/4ed67420-af52-477f-920b-fb224046587f/badges/2591208?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
    <img src="https://cdn.qwiklabs.com/i88dJUJVWT%2Blo8GTDfEOqhJF9XXF2YvZOI1pY%2FbzSaY%3D" title="Certificate" **alt="Certificate" width="650" height="400"/>
 </div>
----
 
+## Hacktoberfest '22 progress
+
+[![@arinx's Holopin board](https://holopin.me/arinx)](https://holopin.io/@arinx)
+---
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ari0211&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ari0211&layout=compact&theme=vision-friendly-dark)](https://github.com/ari0211/github-readme-stats)
