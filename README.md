@@ -43,8 +43,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="80" height="80"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" **alt="Ansible" width="80" height="80"/>
 </div>
-   Google cloud skillsboost profile:https://www.cloudskillsboost.google/public_profiles/4ed67420-af52-477f-920b-fb224046587f/
-</div>
 
 ## Hacktoberfest '22 badges
 
