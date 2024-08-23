@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m currently an university sophomore trying to learn cloud and the DevOps way.
+- :telescope: University final year student trying to learn cloud and the DevOps way.
 
 - :seedling: Exploring the cloud native landscape.
 
