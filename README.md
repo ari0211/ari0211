@@ -17,9 +17,9 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: University final year student trying to learn cloud and the DevOps way.
+- :telescope: IT Fresher trying to figure out life.
 
-- :seedling: Exploring the cloud native landscape.
+- :seedling: Exploring the AI way.
 
 - :zap: In my free time, I try to read books and tech articles and delve into music.
 
